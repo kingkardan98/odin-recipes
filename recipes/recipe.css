@@ -1,0 +1,24 @@
+.center-img{
+    text-align: center;
+}
+
+.recipe-container {
+    display: flex;
+    justify-content: center;
+}
+
+.recipe {
+    padding-left: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 7.5px 7.5px;
+    display: inline-block;
+    padding-right: 50px;
+    background-color: #ac8c25;
+}
+
+.recipe > h2 {
+    color: gold;
+    -webkit-text-stroke: 0.5px black;
+    font-size: 30px;
+}

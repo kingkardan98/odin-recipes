@@ -1,0 +1,12 @@
+body {
+    background-color: gold;
+}
+
+.title{
+    text-align: center;
+}
+
+.space-around {
+    display: flex;
+    justify-content: space-around;
+}
